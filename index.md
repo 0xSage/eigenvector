@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About
+<p></p>
 Investments: investments@eigenvector.net
 
 Jobs: hiring@eigenvector.net
